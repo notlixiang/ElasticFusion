@@ -3,3 +3,9 @@ deps/
 .project
 .cproject
 *.user
+
+GUI/src/\.idea/
+
+GUI/src/cmake-build-debug/
+
+*.freiburg
